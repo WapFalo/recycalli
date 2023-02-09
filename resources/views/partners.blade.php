@@ -55,6 +55,9 @@
                            <a class="nav-link " href="blog">Blog</a>
                         </li>
                         <li class="nav-item">
+                           <a class="nav-link " href="partners">Points de collecte</a>
+                        </li>
+                        <li class="nav-item">
                            <a class="nav-link " href="contact">Contact</a>
                         </li>
                      </ul>
@@ -83,11 +86,11 @@
                <div class="col-md-6">
                   <div class="about_taital_main">
                      <h1 class="about_taital">Nos partenaires</h1>
-                     <p class="about_text">RecyCalli ne serait rien sans ses partenaires que nous avons le plaisir de vous présenter ici.</p>
+                     <p class="about_text">Vous voulez déposez vos vêtements pour participer à l'événment ? Pas de soucis, voilà la liste de nos points de collecte.</p>
                   </div>
                </div>
                <div class="col-md-6 padding_right_0">
-                  <div><img src="images/about_img.png" class="about_img"></div>
+                  <div><iframe src="https://www.google.com/maps/d/embed?mid=1oir4dgjUk-CkoONW8oinS_bsYo4X3yc&ehbc=2E312F" width="640" height="480"></iframe></div>
             </div>
          </div>
       </div>

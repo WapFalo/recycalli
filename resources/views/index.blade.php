@@ -69,6 +69,7 @@
                      <li><a href="about">Qui sommes-nous ?</a></li>
                      <li><a href="services">Boutique</a></li>
                      <li><a href="blog">Blog</a></li>
+                     <li><a href="partners">Points de collecte</li>
                      <li><a href="contact">Contact</a></li>
                   </ul>
                </div>
@@ -171,8 +172,8 @@
                   </div>
                   <div class="col-md-4">
                      <div><img src="images/img-3.png" class="services_img"></div>
-                     <p class="services_text">Découvrez tous nos partenaires</p>
-                     <div class="btn_main"><a href="partners">Entreprises partenaires</a></div>
+                     <p class="services_text">Liste des dépôts pour vos articles</p>
+                     <div class="btn_main"><a href="partners">Points de collecte</a></div>
                   </div>
                </div>
             </div>

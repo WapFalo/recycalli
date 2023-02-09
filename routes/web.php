@@ -18,7 +18,7 @@ Route::get('/about', "App\Http\Controllers\AboutController@index");
 Route::get('/services', "App\Http\Controllers\ServicesController@index");
 Route::get('/contact', "App\Http\Controllers\ContactController@index");
 Route::get('/blog', "App\Http\Controllers\BlogController@index");
-Route::get('/blog', "App\Http\Controllers\PartnersController@index");
+Route::get('/partners', "App\Http\Controllers\PartnersController@index");
 Route::get('/index', "App\Http\Controllers\IndexController@index");
 Route::get('/index.html', "App\Http\Controllers\IndexController@index");
 Route::get('/depot', "App\Http\Controllers\DepotController@index");
